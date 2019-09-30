@@ -1,6 +1,6 @@
 
 function test() {
-  redirect('/gunji.html')
+  redirect('/gunji.html');
 
   echo 'hello, world!';
 }
